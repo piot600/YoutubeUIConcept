@@ -1,2 +1,2 @@
 # YoutubeUIConcept
-Pixel Perfect Youtube views made by HTML, CSS and React
+Pixel Perfect Youtube responisve views made by HTML, CSS and React
